@@ -1,1322 +1,333 @@
 [
-{
-  "id": 1,
-  "question": "Are you a student?",
-  "options": [
-    { "id": "a", "text": "Yes, I am." },
-    { "id": "b", "text": "Yes, I are." },
-    { "id": "c", "text": "Yes, I do." },
-    { "id": "d", "text": "Yes, am I." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 2,
-  "question": "Is this your book?",
-  "options": [
-    { "id": "a", "text": "Yes, this is book." },
-    { "id": "b", "text": "Yes, it is." },
-    { "id": "c", "text": "Yes, is it." },
-    { "id": "d", "text": "Yes, its." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 3,
-  "question": "Are they from Brazil?",
-  "options": [
-    { "id": "a", "text": "Yes, they are." },
-    { "id": "b", "text": "Yes, they is." },
-    { "id": "c", "text": "Yes, are they." },
-    { "id": "d", "text": "Yes, they do." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 4,
-  "question": "Is she your sister?",
-  "options": [
-    { "id": "a", "text": "Yes, she does." },
-    { "id": "b", "text": "Yes, she is." },
-    { "id": "c", "text": "Yes, she are." },
-    { "id": "d", "text": "Yes, is she." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 5,
-  "question": "Do you like coffee?",
-  "options": [
-    { "id": "a", "text": "Yes, I am." },
-    { "id": "b", "text": "Yes, I like." },
-    { "id": "c", "text": "Yes, I do." },
-    { "id": "d", "text": "Yes, I does." }
-  ],
-  "correctOptionId": "c"
-},
-{
-  "id": 6,
-  "question": "Does he play football?",
-  "options": [
-    { "id": "a", "text": "Yes, he play." },
-    { "id": "b", "text": "Yes, he does." },
-    { "id": "c", "text": "Yes, he do." },
-    { "id": "d", "text": "Yes, does he." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 7,
-  "question": "Where do you work?",
-  "options": [
-    { "id": "a", "text": "I work in a company." },
-    { "id": "b", "text": "I working company." },
-    { "id": "c", "text": "Work company." },
-    { "id": "d", "text": "I work at company." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 8,
-  "question": "What is this?",
-  "options": [
-    { "id": "a", "text": "This is table." },
-    { "id": "b", "text": "It is a table." },
-    { "id": "c", "text": "Is a table." },
-    { "id": "d", "text": "A table is." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 9,
-  "question": "How many books are there?",
-  "options": [
-    { "id": "a", "text": "There is three books." },
-    { "id": "b", "text": "There are three books." },
-    { "id": "c", "text": "There three books." },
-    { "id": "d", "text": "Is three books." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 10,
-  "question": "Is there a pen on the table?",
-  "options": [
-    { "id": "a", "text": "Yes, there is." },
-    { "id": "b", "text": "Yes, there are." },
-    { "id": "c", "text": "Yes, is there." },
-    { "id": "d", "text": "Yes, it is there." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 11,
-  "question": "What day is today?",
-  "options": [
-    { "id": "a", "text": "Today is Monday." },
-    { "id": "b", "text": "Is Monday today." },
-    { "id": "c", "text": "Today Monday." },
-    { "id": "d", "text": "Monday is." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 12,
-  "question": "Can you swim?",
-  "options": [
-    { "id": "a", "text": "Yes, I can." },
-    { "id": "b", "text": "Yes, I swim." },
-    { "id": "c", "text": "Yes, I do." },
-    { "id": "d", "text": "Yes, I am." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 13,
-  "question": "Is your house big?",
-  "options": [
-    { "id": "a", "text": "Yes, it is." },
-    { "id": "b", "text": "Yes, is big." },
-    { "id": "c", "text": "Yes, it big." },
-    { "id": "d", "text": "Yes, is it." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 14,
-  "question": "Do they live here?",
-  "options": [
-    { "id": "a", "text": "Yes, they live." },
-    { "id": "b", "text": "Yes, they does." },
-    { "id": "c", "text": "Yes, they do." },
-    { "id": "d", "text": "Yes, do they." }
-  ],
-  "correctOptionId": "c"
-},
-{
-  "id": 15,
-  "question": "What colour is the sky?",
-  "options": [
-    { "id": "a", "text": "The sky blue." },
-    { "id": "b", "text": "The sky is blue." },
-    { "id": "c", "text": "Is blue sky." },
-    { "id": "d", "text": "Blue is sky." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 16,
-  "question": "Is this your car or his car?",
-  "options": [
-    { "id": "a", "text": "It is mine." },
-    { "id": "b", "text": "It my." },
-    { "id": "c", "text": "It is my." },
-    { "id": "d", "text": "It mine is." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 17,
-  "question": "Where is the cat?",
-  "options": [
-    { "id": "a", "text": "The cat under table." },
-    { "id": "b", "text": "The cat is under the table." },
-    { "id": "c", "text": "Under table cat." },
-    { "id": "d", "text": "Is under table." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 18,
-  "question": "Are there any chairs in the room?",
-  "options": [
-    { "id": "a", "text": "Yes, there are." },
-    { "id": "b", "text": "Yes, there is." },
-    { "id": "c", "text": "Yes, are there." },
-    { "id": "d", "text": "Yes, chairs are." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 19,
-  "question": "Do you understand English?",
-  "options": [
-    { "id": "a", "text": "Yes, I understand." },
-    { "id": "b", "text": "Yes, I do." },
-    { "id": "c", "text": "Yes, I am." },
-    { "id": "d", "text": "Yes, I does." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 20,
-  "question": "Is he tall or short?",
-  "options": [
-    { "id": "a", "text": "He tall." },
-    { "id": "b", "text": "He is tall." },
-    { "id": "c", "text": "Is tall he." },
-    { "id": "d", "text": "Tall he is." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 21,
-  "question": "What do you do every day?",
-  "options": [
-    { "id": "a", "text": "I go to work." },
-    { "id": "b", "text": "I going work." },
-    { "id": "c", "text": "Go work." },
-    { "id": "d", "text": "I goes work." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 22,
-  "question": "Does she like music?",
-  "options": [
-    { "id": "a", "text": "Yes, she like." },
-    { "id": "b", "text": "Yes, she does." },
-    { "id": "c", "text": "Yes, she do." },
-    { "id": "d", "text": "Yes, she is." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 23,
-  "question": "How much is this book?",
-  "options": [
-    { "id": "a", "text": "It ten dollars." },
-    { "id": "b", "text": "It is ten dollars." },
-    { "id": "c", "text": "Is ten dollars." },
-    { "id": "d", "text": "Ten dollars is." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 24,
-  "question": "Are we late?",
-  "options": [
-    { "id": "a", "text": "No, we are not." },
-    { "id": "b", "text": "No, we not." },
-    { "id": "c", "text": "No, are not we." },
-    { "id": "d", "text": "No, we do not." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 25,
-  "question": "Is there any water in the glass?",
-  "options": [
-    { "id": "a", "text": "Yes, there is." },
-    { "id": "b", "text": "Yes, there are." },
-    { "id": "c", "text": "Yes, water is." },
-    { "id": "d", "text": "Yes, is there." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 26,
-  "question": "What time do you wake up?",
-  "options": [
-    { "id": "a", "text": "I wake up at seven." },
-    { "id": "b", "text": "I wake up seven." },
-    { "id": "c", "text": "Wake seven." },
-    { "id": "d", "text": "At seven wake." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 27,
-  "question": "Is your mother at home?",
-  "options": [
-    { "id": "a", "text": "Yes, she is." },
-    { "id": "b", "text": "Yes, she are." },
-    { "id": "c", "text": "Yes, is she." },
-    { "id": "d", "text": "Yes, she do." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 28,
-  "question": "Do you have a car?",
-  "options": [
-    { "id": "a", "text": "Yes, I have." },
-    { "id": "b", "text": "Yes, I has." },
-    { "id": "c", "text": "Yes, I do have car." },
-    { "id": "d", "text": "Yes, I am." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 29,
-  "question": "Is this chair comfortable?",
-  "options": [
-    { "id": "a", "text": "Yes, it comfortable." },
-    { "id": "b", "text": "Yes, it is." },
-    { "id": "c", "text": "Yes, is comfortable." },
-    { "id": "d", "text": "Yes, comfortable is." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 30,
-  "question": "Are there two windows in the room?",
-  "options": [
-    { "id": "a", "text": "Yes, there is." },
-    { "id": "b", "text": "Yes, there are." },
-    { "id": "c", "text": "Yes, are there." },
-    { "id": "d", "text": "Yes, windows are." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 31,
-  "question": "Is your father at work now?",
-  "options": [
-    { "id": "a", "text": "Yes, he is." },
-    { "id": "b", "text": "Yes, he are." },
-    { "id": "c", "text": "Yes, is he." },
-    { "id": "d", "text": "Yes, he do." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 32,
-  "question": "Do you like tea or coffee?",
-  "options": [
-    { "id": "a", "text": "I like coffee." },
-    { "id": "b", "text": "I liking coffee." },
-    { "id": "c", "text": "Like coffee." },
-    { "id": "d", "text": "I likes coffee." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 33,
-  "question": "Is there a supermarket near your house?",
-  "options": [
-    { "id": "a", "text": "Yes, there are." },
-    { "id": "b", "text": "Yes, there is." },
-    { "id": "c", "text": "Yes, is there." },
-    { "id": "d", "text": "Yes, it is there." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 34,
-  "question": "Are your friends here today?",
-  "options": [
-    { "id": "a", "text": "No, they not." },
-    { "id": "b", "text": "No, they isn't." },
-    { "id": "c", "text": "No, aren't they." },
-    { "id": "d", "text": "No, they aren't." }
-  ],
-  "correctOptionId": "d"
-},
-{
-  "id": 35,
-  "question": "What do you eat for breakfast?",
-  "options": [
-    { "id": "a", "text": "I eat bread and coffee." },
-    { "id": "b", "text": "I eating bread." },
-    { "id": "c", "text": "Eat bread." },
-    { "id": "d", "text": "I eats bread." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 36,
-  "question": "Does your mother cook well?",
-  "options": [
-    { "id": "a", "text": "Yes, she does." },
-    { "id": "b", "text": "Yes, she do." },
-    { "id": "c", "text": "Yes, she is." },
-    { "id": "d", "text": "Yes, does she." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 37,
-  "question": "Is the weather cold today?",
-  "options": [
-    { "id": "a", "text": "Yes, it are." },
-    { "id": "b", "text": "Yes, it is." },
-    { "id": "c", "text": "Yes, is it." },
-    { "id": "d", "text": "Yes, cold is." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 38,
-  "question": "Are there many people in the street?",
-  "options": [
-    { "id": "a", "text": "Yes, there are." },
-    { "id": "b", "text": "Yes, there is." },
-    { "id": "c", "text": "Yes, people are." },
-    { "id": "d", "text": "Yes, are there." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 39,
-  "question": "What is your favourite colour?",
-  "options": [
-    { "id": "a", "text": "My favourite colour is blue." },
-    { "id": "b", "text": "My favourite blue." },
-    { "id": "c", "text": "Favourite colour blue." },
-    { "id": "d", "text": "Blue favourite is." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 40,
-  "question": "Do you go to school every day?",
-  "options": [
-    { "id": "a", "text": "Yes, I go." },
-    { "id": "b", "text": "Yes, I goes." },
-    { "id": "c", "text": "Yes, I do." },
-    { "id": "d", "text": "Yes, go I." }
-  ],
-  "correctOptionId": "c"
-},
-{
-  "id": 41,
-  "question": "Is your city big?",
-  "options": [
-    { "id": "a", "text": "Yes, it is." },
-    { "id": "b", "text": "Yes, it are." },
-    { "id": "c", "text": "Yes, is big." },
-    { "id": "d", "text": "Yes, big is." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 42,
-  "question": "Are you tired now?",
-  "options": [
-    { "id": "a", "text": "No, I not." },
-    { "id": "b", "text": "No, I am not." },
-    { "id": "c", "text": "No, am I not." },
-    { "id": "d", "text": "No, I don't." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 43,
-  "question": "How many brothers do you have?",
-  "options": [
-    { "id": "a", "text": "I have two brothers." },
-    { "id": "b", "text": "I have two brother." },
-    { "id": "c", "text": "Have two brothers." },
-    { "id": "d", "text": "I has two brothers." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 44,
-  "question": "Is this exercise easy?",
-  "options": [
-    { "id": "a", "text": "Yes, it is." },
-    { "id": "b", "text": "Yes, it are." },
-    { "id": "c", "text": "Yes, easy is." },
-    { "id": "d", "text": "Yes, is easy." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 45,
-  "question": "Do they watch TV at night?",
-  "options": [
-    { "id": "a", "text": "Yes, they watch." },
-    { "id": "b", "text": "Yes, they do." },
-    { "id": "c", "text": "Yes, they does." },
-    { "id": "d", "text": "Yes, watch they." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 46,
-  "question": "Is there a bank in this street?",
-  "options": [
-    { "id": "a", "text": "Yes, there is." },
-    { "id": "b", "text": "Yes, there are." },
-    { "id": "c", "text": "Yes, bank is." },
-    { "id": "d", "text": "Yes, is there." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 47,
-  "question": "What time do you go to bed?",
-  "options": [
-    { "id": "a", "text": "I go to bed at eleven." },
-    { "id": "b", "text": "I go bed eleven." },
-    { "id": "c", "text": "Go bed at eleven." },
-    { "id": "d", "text": "I goes to bed." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 48,
-  "question": "Are your shoes new?",
-  "options": [
-    { "id": "a", "text": "Yes, they are." },
-    { "id": "b", "text": "Yes, they is." },
-    { "id": "c", "text": "Yes, are they." },
-    { "id": "d", "text": "Yes, new are." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 49,
-  "question": "Does he drive a car?",
-  "options": [
-    { "id": "a", "text": "Yes, he drives." },
-    { "id": "b", "text": "Yes, he drive." },
-    { "id": "c", "text": "Yes, he does." },
-    { "id": "d", "text": "Yes, drive he." }
-  ],
-  "correctOptionId": "c"
-},
-{
-  "id": 50,
-  "question": "Is your English good?",
-  "options": [
-    { "id": "a", "text": "Yes, it is." },
-    { "id": "b", "text": "Yes, it are." },
-    { "id": "c", "text": "Yes, good is." },
-    { "id": "d", "text": "Yes, is good." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 51,
-  "question": "Are there any pictures on the wall?",
-  "options": [
-    { "id": "a", "text": "Yes, there are." },
-    { "id": "b", "text": "Yes, there is." },
-    { "id": "c", "text": "Yes, pictures is." },
-    { "id": "d", "text": "Yes, are there." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 52,
-  "question": "Do you study English every day?",
-  "options": [
-    { "id": "a", "text": "Yes, I study." },
-    { "id": "b", "text": "Yes, I studies." },
-    { "id": "c", "text": "Yes, I do." },
-    { "id": "d", "text": "Yes, study I." }
-  ],
-  "correctOptionId": "c"
-},
-{
-  "id": 53,
-  "question": "Is this your first English book?",
-  "options": [
-    { "id": "a", "text": "Yes, it is." },
-    { "id": "b", "text": "Yes, it are." },
-    { "id": "c", "text": "Yes, first is." },
-    { "id": "d", "text": "Yes, is it." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 54,
-  "question": "How much money do you have?",
-  "options": [
-    { "id": "a", "text": "I have ten dollars." },
-    { "id": "b", "text": "I have ten dollar." },
-    { "id": "c", "text": "Have ten dollars." },
-    { "id": "d", "text": "I has ten dollars." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 55,
-  "question": "Are we in the classroom now?",
-  "options": [
-    { "id": "a", "text": "Yes, we are." },
-    { "id": "b", "text": "Yes, we is." },
-    { "id": "c", "text": "Yes, are we." },
-    { "id": "d", "text": "Yes, we do." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 56,
-  "question": "Does she speak Spanish?",
-  "options": [
-    { "id": "a", "text": "Yes, she speak." },
-    { "id": "b", "text": "Yes, she speaks." },
-    { "id": "c", "text": "Yes, she does." },
-    { "id": "d", "text": "Yes, speak she." }
-  ],
-  "correctOptionId": "c"
-},
-{
-  "id": 57,
-  "question": "Is there a hospital near here?",
-  "options": [
-    { "id": "a", "text": "Yes, there is." },
-    { "id": "b", "text": "Yes, there are." },
-    { "id": "c", "text": "Yes, hospital is." },
-    { "id": "d", "text": "Yes, is there." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 58,
-  "question": "What do you do on Sundays?",
-  "options": [
-    { "id": "a", "text": "I relax at home." },
-    { "id": "b", "text": "I relaxing home." },
-    { "id": "c", "text": "Relax home." },
-    { "id": "d", "text": "I relaxes home." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 59,
-  "question": "Are your parents at home?",
-  "options": [
-    { "id": "a", "text": "Yes, they are." },
-    { "id": "b", "text": "Yes, they is." },
-    { "id": "c", "text": "Yes, are they." },
-    { "id": "d", "text": "Yes, they do." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 60,
-  "question": "Do you like learning English?",
-  "options": [
-    { "id": "a", "text": "Yes, I like." },
-    { "id": "b", "text": "Yes, I do." },
-    { "id": "c", "text": "Yes, I does." },
-    { "id": "d", "text": "Yes, like I." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 61,
-  "question": "Do you drink coffee in the morning?",
-  "options": [
-    { "id": "a", "text": "Yes, I drink." },
-    { "id": "b", "text": "Yes, I do." },
-    { "id": "c", "text": "Yes, I am." },
-    { "id": "d", "text": "Yes, I does." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 62,
-  "question": "Does he play football?",
-  "options": [
-    { "id": "a", "text": "Yes, he play." },
-    { "id": "b", "text": "Yes, he does." },
-    { "id": "c", "text": "Yes, he do." },
-    { "id": "d", "text": "Yes, he is." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 63,
-  "question": "Where does she work?",
-  "options": [
-    { "id": "a", "text": "She work in a bank." },
-    { "id": "b", "text": "She works in a bank." },
-    { "id": "c", "text": "She working in a bank." },
-    { "id": "d", "text": "She is work in a bank." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 64,
-  "question": "Is there a hospital near here?",
-  "options": [
-    { "id": "a", "text": "Yes, there is." },
-    { "id": "b", "text": "Yes, there are." },
-    { "id": "c", "text": "Yes, is there." },
-    { "id": "d", "text": "Yes, it is." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 65,
-  "question": "Are there many people in the room?",
-  "options": [
-    { "id": "a", "text": "Yes, there is." },
-    { "id": "b", "text": "Yes, there are." },
-    { "id": "c", "text": "Yes, they is." },
-    { "id": "d", "text": "Yes, are there." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 66,
-  "question": "What do you usually eat for lunch?",
-  "options": [
-    { "id": "a", "text": "I usually eat rice and beans." },
-    { "id": "b", "text": "I usually eating rice." },
-    { "id": "c", "text": "I eat usually rice and beans." },
-    { "id": "d", "text": "Usually I eating rice." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 67,
-  "question": "Does your mother work?",
-  "options": [
-    { "id": "a", "text": "Yes, she does." },
-    { "id": "b", "text": "Yes, she do." },
-    { "id": "c", "text": "Yes, she is." },
-    { "id": "d", "text": "Yes, does she." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 68,
-  "question": "Do they live in this city?",
-  "options": [
-    { "id": "a", "text": "Yes, they live." },
-    { "id": "b", "text": "Yes, they does." },
-    { "id": "c", "text": "Yes, they do." },
-    { "id": "d", "text": "Yes, they are." }
-  ],
-  "correctOptionId": "c"
-},
-{
-  "id": 69,
-  "question": "What is your favorite color?",
-  "options": [
-    { "id": "a", "text": "My favorite color is blue." },
-    { "id": "b", "text": "Favorite color is blue." },
-    { "id": "c", "text": "Blue is favorite." },
-    { "id": "d", "text": "Is blue my favorite." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 70,
-  "question": "Is English difficult?",
-  "options": [
-    { "id": "a", "text": "Yes, is difficult." },
-    { "id": "b", "text": "Yes, it is." },
-    { "id": "c", "text": "Yes, it are." },
-    { "id": "d", "text": "Yes, difficult." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 71,
-  "question": "Do you like music?",
-  "options": [
-    { "id": "a", "text": "Yes, I like." },
-    { "id": "b", "text": "Yes, I do." },
-    { "id": "c", "text": "Yes, I does." },
-    { "id": "d", "text": "Yes, like." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 72,
-  "question": "Does he have a car?",
-  "options": [
-    { "id": "a", "text": "Yes, he have." },
-    { "id": "b", "text": "Yes, he has." },
-    { "id": "c", "text": "Yes, he do." },
-    { "id": "d", "text": "Yes, he is." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 73,
-  "question": "How many brothers do you have?",
-  "options": [
-    { "id": "a", "text": "I have two brothers." },
-    { "id": "b", "text": "I am two brothers." },
-    { "id": "c", "text": "Have two brothers." },
-    { "id": "d", "text": "I has two brothers." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 74,
-  "question": "Is your house big?",
-  "options": [
-    { "id": "a", "text": "Yes, it is." },
-    { "id": "b", "text": "Yes, it are." },
-    { "id": "c", "text": "Yes, is it." },
-    { "id": "d", "text": "Yes, house big." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 75,
-  "question": "Are you tired?",
-  "options": [
-    { "id": "a", "text": "Yes, I tired." },
-    { "id": "b", "text": "Yes, I am." },
-    { "id": "c", "text": "Yes, I are." },
-    { "id": "d", "text": "Yes, am I." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 76,
-  "question": "Do you study at night?",
-  "options": [
-    { "id": "a", "text": "Yes, I study." },
-    { "id": "b", "text": "Yes, I do." },
-    { "id": "c", "text": "Yes, I does." },
-    { "id": "d", "text": "Yes, I am." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 77,
-  "question": "Does she like chocolate?",
-  "options": [
-    { "id": "a", "text": "Yes, she likes." },
-    { "id": "b", "text": "Yes, she do." },
-    { "id": "c", "text": "Yes, she does." },
-    { "id": "d", "text": "Yes, she is." }
-  ],
-  "correctOptionId": "c"
-},
-{
-  "id": 78,
-  "question": "What day is today?",
-  "options": [
-    { "id": "a", "text": "Today is Monday." },
-    { "id": "b", "text": "Is Monday today." },
-    { "id": "c", "text": "Monday is." },
-    { "id": "d", "text": "It Monday." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 79,
-  "question": "Is there a supermarket near your house?",
-  "options": [
-    { "id": "a", "text": "Yes, there is." },
-    { "id": "b", "text": "Yes, there are." },
-    { "id": "c", "text": "Yes, it is." },
-    { "id": "d", "text": "Yes, is there." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 80,
-  "question": "Are your parents at home?",
-  "options": [
-    { "id": "a", "text": "Yes, they are." },
-    { "id": "b", "text": "Yes, they is." },
-    { "id": "c", "text": "Yes, are they." },
-    { "id": "d", "text": "Yes, they." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 81,
-  "question": "Do you work on weekends?",
-  "options": [
-    { "id": "a", "text": "Yes, I work." },
-    { "id": "b", "text": "Yes, I do." },
-    { "id": "c", "text": "Yes, I does." },
-    { "id": "d", "text": "Yes, I am." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 82,
-  "question": "Does he watch TV every day?",
-  "options": [
-    { "id": "a", "text": "Yes, he watch." },
-    { "id": "b", "text": "Yes, he watches." },
-    { "id": "c", "text": "Yes, he do." },
-    { "id": "d", "text": "Yes, he is." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 83,
-  "question": "Where are your keys?",
-  "options": [
-    { "id": "a", "text": "They are on the table." },
-    { "id": "b", "text": "They on the table." },
-    { "id": "c", "text": "Are on the table." },
-    { "id": "d", "text": "On table they." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 84,
-  "question": "Is the book under the chair?",
-  "options": [
-    { "id": "a", "text": "Yes, it is." },
-    { "id": "b", "text": "Yes, it are." },
-    { "id": "c", "text": "Yes, is it." },
-    { "id": "d", "text": "Yes, book is." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 85,
-  "question": "Do you have a computer?",
-  "options": [
-    { "id": "a", "text": "Yes, I have." },
-    { "id": "b", "text": "Yes, I do." },
-    { "id": "c", "text": "Yes, I has." },
-    { "id": "d", "text": "Yes, I am." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 86,
-  "question": "Does she speak Spanish?",
-  "options": [
-    { "id": "a", "text": "Yes, she speaks." },
-    { "id": "b", "text": "Yes, she does." },
-    { "id": "c", "text": "Yes, she do." },
-    { "id": "d", "text": "Yes, she is." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 87,
-  "question": "Is this your phone?",
-  "options": [
-    { "id": "a", "text": "Yes, it is." },
-    { "id": "b", "text": "Yes, it are." },
-    { "id": "c", "text": "Yes, this is." },
-    { "id": "d", "text": "Yes, phone is." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 88,
-  "question": "Are there any chairs in the room?",
-  "options": [
-    { "id": "a", "text": "Yes, there is." },
-    { "id": "b", "text": "Yes, there are." },
-    { "id": "c", "text": "Yes, they is." },
-    { "id": "d", "text": "Yes, is there." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 89,
-  "question": "Do you read books?",
-  "options": [
-    { "id": "a", "text": "Yes, I read." },
-    { "id": "b", "text": "Yes, I do." },
-    { "id": "c", "text": "Yes, I does." },
-    { "id": "d", "text": "Yes, I am." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 90,
-  "question": "Does your father drive?",
-  "options": [
-    { "id": "a", "text": "Yes, he drives." },
-    { "id": "b", "text": "Yes, he do." },
-    { "id": "c", "text": "Yes, he does." },
-    { "id": "d", "text": "Yes, he is." }
-  ],
-  "correctOptionId": "c"
-},
-{
-  "id": 91,
-  "question": "What is your job?",
-  "options": [
-    { "id": "a", "text": "I am a student." },
-    { "id": "b", "text": "I student." },
-    { "id": "c", "text": "Am student." },
-    { "id": "d", "text": "I is a student." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 92,
-  "question": "Are you busy now?",
-  "options": [
-    { "id": "a", "text": "Yes, I busy." },
-    { "id": "b", "text": "Yes, I am." },
-    { "id": "c", "text": "Yes, I are." },
-    { "id": "d", "text": "Yes, busy." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 93,
-  "question": "Do you like pizza?",
-  "options": [
-    { "id": "a", "text": "Yes, I like." },
-    { "id": "b", "text": "Yes, I do." },
-    { "id": "c", "text": "Yes, I does." },
-    { "id": "d", "text": "Yes, I am." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 94,
-  "question": "Does she live near here?",
-  "options": [
-    { "id": "a", "text": "Yes, she live." },
-    { "id": "b", "text": "Yes, she does." },
-    { "id": "c", "text": "Yes, she do." },
-    { "id": "d", "text": "Yes, she is." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 95,
-  "question": "Where is your bag?",
-  "options": [
-    { "id": "a", "text": "It is on the chair." },
-    { "id": "b", "text": "It on the chair." },
-    { "id": "c", "text": "Is on chair." },
-    { "id": "d", "text": "On the chair is." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 96,
-  "question": "Are your friends here?",
-  "options": [
-    { "id": "a", "text": "Yes, they are." },
-    { "id": "b", "text": "Yes, they is." },
-    { "id": "c", "text": "Yes, are they." },
-    { "id": "d", "text": "Yes, they." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 97,
-  "question": "Do you go to school every day?",
-  "options": [
-    { "id": "a", "text": "Yes, I go." },
-    { "id": "b", "text": "Yes, I do." },
-    { "id": "c", "text": "Yes, I goes." },
-    { "id": "d", "text": "Yes, I am." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 98,
-  "question": "Does he eat breakfast?",
-  "options": [
-    { "id": "a", "text": "Yes, he eat." },
-    { "id": "b", "text": "Yes, he does." },
-    { "id": "c", "text": "Yes, he do." },
-    { "id": "d", "text": "Yes, he is." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 99,
-  "question": "Is there a bank in your neighborhood?",
-  "options": [
-    { "id": "a", "text": "Yes, there is." },
-    { "id": "b", "text": "Yes, there are." },
-    { "id": "c", "text": "Yes, is there." },
-    { "id": "d", "text": "Yes, it are." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 100,
-  "question": "Are there any books on the table?",
-  "options": [
-    { "id": "a", "text": "Yes, there is." },
-    { "id": "b", "text": "Yes, there are." },
-    { "id": "c", "text": "Yes, they is." },
-    { "id": "d", "text": "Yes, is there." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 101,
-  "question": "What time do you wake up?",
-  "options": [
-    { "id": "a", "text": "I wake up at seven." },
-    { "id": "b", "text": "I waking up seven." },
-    { "id": "c", "text": "Wake up seven." },
-    { "id": "d", "text": "I wake at seven up." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 102,
-  "question": "Does your sister study English?",
-  "options": [
-    { "id": "a", "text": "Yes, she studies." },
-    { "id": "b", "text": "Yes, she study." },
-    { "id": "c", "text": "Yes, she do." },
-    { "id": "d", "text": "Yes, she is." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 103,
-  "question": "Is your phone new?",
-  "options": [
-    { "id": "a", "text": "Yes, it is." },
-    { "id": "b", "text": "Yes, it are." },
-    { "id": "c", "text": "Yes, is it." },
-    { "id": "d", "text": "Yes, phone is." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 104,
-  "question": "Do you watch movies?",
-  "options": [
-    { "id": "a", "text": "Yes, I watch." },
-    { "id": "b", "text": "Yes, I do." },
-    { "id": "c", "text": "Yes, I does." },
-    { "id": "d", "text": "Yes, I am." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 105,
-  "question": "Does he work in an office?",
-  "options": [
-    { "id": "a", "text": "Yes, he work." },
-    { "id": "b", "text": "Yes, he does." },
-    { "id": "c", "text": "Yes, he do." },
-    { "id": "d", "text": "Yes, he is." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 106,
-  "question": "Where do your parents live?",
-  "options": [
-    { "id": "a", "text": "They live in São Paulo." },
-    { "id": "b", "text": "They lives in São Paulo." },
-    { "id": "c", "text": "Live in São Paulo." },
-    { "id": "d", "text": "They living São Paulo." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 107,
-  "question": "Is it hot today?",
-  "options": [
-    { "id": "a", "text": "Yes, it is." },
-    { "id": "b", "text": "Yes, it are." },
-    { "id": "c", "text": "Yes, hot is." },
-    { "id": "d", "text": "Yes, is it." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 108,
-  "question": "Are you hungry?",
-  "options": [
-    { "id": "a", "text": "Yes, I am." },
-    { "id": "b", "text": "Yes, I hungry." },
-    { "id": "c", "text": "Yes, I are." },
-    { "id": "d", "text": "Yes, am I." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 109,
-  "question": "Do you understand English?",
-  "options": [
-    { "id": "a", "text": "Yes, I understand." },
-    { "id": "b", "text": "Yes, I do." },
-    { "id": "c", "text": "Yes, I does." },
-    { "id": "d", "text": "Yes, I am." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 110,
-  "question": "Does she drive to work?",
-  "options": [
-    { "id": "a", "text": "Yes, she drives." },
-    { "id": "b", "text": "Yes, she does." },
-    { "id": "c", "text": "Yes, she drive." },
-    { "id": "d", "text": "Yes, she is." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 111,
-  "question": "Is this your first English class?",
-  "options": [
-    { "id": "a", "text": "Yes, it is." },
-    { "id": "b", "text": "Yes, it are." },
-    { "id": "c", "text": "Yes, is it." },
-    { "id": "d", "text": "Yes, class is." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 112,
-  "question": "Are there any windows in the room?",
-  "options": [
-    { "id": "a", "text": "Yes, there is." },
-    { "id": "b", "text": "Yes, there are." },
-    { "id": "c", "text": "Yes, they is." },
-    { "id": "d", "text": "Yes, is there." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 113,
-  "question": "Do you play video games?",
-  "options": [
-    { "id": "a", "text": "Yes, I play." },
-    { "id": "b", "text": "Yes, I do." },
-    { "id": "c", "text": "Yes, I does." },
-    { "id": "d", "text": "Yes, I am." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 114,
-  "question": "Does he study at night?",
-  "options": [
-    { "id": "a", "text": "Yes, he study." },
-    { "id": "b", "text": "Yes, he does." },
-    { "id": "c", "text": "Yes, he studies." },
-    { "id": "d", "text": "Yes, he is." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 115,
-  "question": "Where is the bathroom?",
-  "options": [
-    { "id": "a", "text": "It is next to the kitchen." },
-    { "id": "b", "text": "It next kitchen." },
-    { "id": "c", "text": "Next to kitchen is." },
-    { "id": "d", "text": "Is next kitchen." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 116,
-  "question": "Is your city big?",
-  "options": [
-    { "id": "a", "text": "Yes, it is." },
-    { "id": "b", "text": "Yes, it are." },
-    { "id": "c", "text": "Yes, city is." },
-    { "id": "d", "text": "Yes, is it." }
-  ],
-  "correctOptionId": "a"
-},
-{
-  "id": 117,
-  "question": "Do you need help?",
-  "options": [
-    { "id": "a", "text": "Yes, I need." },
-    { "id": "b", "text": "Yes, I do." },
-    { "id": "c", "text": "Yes, I does." },
-    { "id": "d", "text": "Yes, I am." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 118,
-  "question": "Does she have brothers?",
-  "options": [
-    { "id": "a", "text": "Yes, she has." },
-    { "id": "b", "text": "Yes, she does." },
-    { "id": "c", "text": "Yes, she have." },
-    { "id": "d", "text": "Yes, she is." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 119,
-  "question": "Are you ready?",
-  "options": [
-    { "id": "a", "text": "Yes, I ready." },
-    { "id": "b", "text": "Yes, I am." },
-    { "id": "c", "text": "Yes, I are." },
-    { "id": "d", "text": "Yes, ready." }
-  ],
-  "correctOptionId": "b"
-},
-{
-  "id": 120,
-  "question": "Do you like studying English?",
-  "options": [
-    { "id": "a", "text": "Yes, I like." },
-    { "id": "b", "text": "Yes, I do." },
-    { "id": "c", "text": "Yes, I does." },
-    { "id": "d", "text": "Yes, I am." }
-  ],
-  "correctOptionId": "b"
-}
+  {
+    "id": 1,
+    "question": "Segundo a Resolução CFP nº 31/2022, a Avaliação Psicológica caracteriza-se como:",
+    "options": [
+      { "id": "a", "text": "Um conjunto de técnicas aplicadas exclusivamente em contexto clínico, voltadas à identificação de transtornos mentais específicos." },
+      { "id": "b", "text": "Um processo estruturado de investigação de fenômenos psicológicos, que integra métodos, técnicas e instrumentos para subsidiar decisões." },
+      { "id": "c", "text": "Um procedimento experimental restrito ao ambiente acadêmico, voltado à produção de conhecimento científico." },
+      { "id": "d", "text": "Uma prática baseada predominantemente em observações informais, sem necessidade de sistematização metodológica." }
+    ],
+    "correctOptionId": "b"
+  },
+  {
+    "id": 2,
+    "question": "A finalidade central da Avaliação Psicológica está relacionada a:",
+    "options": [
+      { "id": "a", "text": "Produzir diagnósticos médicos definitivos a partir da análise de sintomas psicológicos e comportamentais." },
+      { "id": "b", "text": "Mensurar traços de personalidade com base em instrumentos padronizados e comparáveis estatisticamente." },
+      { "id": "c", "text": "Fornecer subsídios técnicos para tomada de decisão em diferentes contextos e níveis de análise." },
+      { "id": "d", "text": "Estabelecer classificações rígidas de indivíduos com base em critérios exclusivamente quantitativos." }
+    ],
+    "correctOptionId": "c"
+  },
+  {
+    "id": 3,
+    "question": "A integração de múltiplas fontes de informação na Avaliação Psicológica implica:",
+    "options": [
+      { "id": "a", "text": "A utilização exclusiva de testes psicológicos padronizados, garantindo maior precisão estatística dos resultados." },
+      { "id": "b", "text": "A priorização de entrevistas clínicas em detrimento de outros instrumentos considerados menos confiáveis." },
+      { "id": "c", "text": "A combinação de dados provenientes de entrevistas, testes, observações e documentos, articulados de forma coerente." },
+      { "id": "d", "text": "A substituição de instrumentos objetivos por métodos qualitativos, considerados mais abrangentes." }
+    ],
+    "correctOptionId": "c"
+  },
+  {
+    "id": 4,
+    "question": "O caráter dinâmico da Avaliação Psicológica refere-se a:",
+    "options": [
+      { "id": "a", "text": "A possibilidade de adaptação do processo avaliativo conforme as demandas, hipóteses e informações obtidas ao longo da avaliação." },
+      { "id": "b", "text": "A necessidade de aplicação contínua de testes ao longo do tempo, independentemente do objetivo da avaliação." },
+      { "id": "c", "text": "A obrigatoriedade de revisão periódica dos instrumentos utilizados, conforme normas institucionais específicas." },
+      { "id": "d", "text": "A utilização de técnicas exclusivamente qualitativas, em substituição a métodos quantitativos tradicionais." }
+    ],
+    "correctOptionId": "a"
+  },
+  {
+    "id": 5,
+    "question": "O planejamento prévio na Avaliação Psicológica tem como principal função:",
+    "options": [
+      { "id": "a", "text": "Reduzir o tempo total do processo avaliativo, tornando-o mais eficiente operacionalmente." },
+      { "id": "b", "text": "Garantir a padronização absoluta das avaliações, independentemente das características do avaliado." },
+      { "id": "c", "text": "Organizar etapas, definir instrumentos e alinhar procedimentos aos objetivos e hipóteses iniciais." },
+      { "id": "d", "text": "Eliminar a necessidade de ajustes durante o processo, assegurando rigidez metodológica completa." }
+    ],
+    "correctOptionId": "c"
+  },
+  {
+    "id": 6,
+    "question": "No que se refere aos aspectos éticos da Avaliação Psicológica, é correto afirmar que:",
+    "options": [
+      { "id": "a", "text": "A divulgação dos resultados pode ser realizada livremente, desde que haja interesse institucional envolvido." },
+      { "id": "b", "text": "O sigilo profissional e o cuidado com materiais restritos constituem princípios fundamentais da prática." },
+      { "id": "c", "text": "Os instrumentos psicológicos podem ser compartilhados com outros profissionais sem restrições legais." },
+      { "id": "d", "text": "A ética é aplicável apenas em contextos clínicos, sendo flexibilizada em outras áreas de atuação." }
+    ],
+    "correctOptionId": "b"
+  },
+  {
+    "id": 7,
+    "question": "As implicações sociais da Avaliação Psicológica podem envolver:",
+    "options": [
+      { "id": "a", "text": "Apenas benefícios relacionados ao acesso a serviços especializados de saúde mental." },
+      { "id": "b", "text": "Impactos restritos ao contexto acadêmico e institucional, sem efeitos na vida cotidiana." },
+      { "id": "c", "text": "Consequências emocionais e sociais, incluindo possíveis processos de exclusão ou acesso a direitos." },
+      { "id": "d", "text": "Resultados neutros, sem influência significativa nas relações interpessoais ou sociais." }
+    ],
+    "correctOptionId": "c"
+  },
+  {
+    "id": 8,
+    "question": "O embasamento teórico na Avaliação Psicológica é indispensável porque:",
+    "options": [
+      { "id": "a", "text": "Permite a padronização universal dos resultados, independentemente da abordagem adotada." },
+      { "id": "b", "text": "Substitui a necessidade de instrumentos técnicos, priorizando a interpretação subjetiva." },
+      { "id": "c", "text": "Orienta a escolha dos instrumentos e fundamenta a interpretação dos dados obtidos." },
+      { "id": "d", "text": "Garante que todos os profissionais utilizem os mesmos métodos e técnicas em qualquer contexto." }
+    ],
+    "correctOptionId": "c"
+  },
+  {
+    "id": 9,
+    "question": "No contexto histórico da Avaliação Psicológica, Francis Galton destacou-se por:",
+    "options": [
+      { "id": "a", "text": "Desenvolver abordagens clínicas voltadas à compreensão do inconsciente humano." },
+      { "id": "b", "text": "Introduzir métodos estatísticos e instrumentos voltados à mensuração de características individuais." },
+      { "id": "c", "text": "Criar teorias cognitivas baseadas na aprendizagem social e no comportamento observável." },
+      { "id": "d", "text": "Fundamentar a psicologia humanista com foco na autorrealização e potencial humano." }
+    ],
+    "correctOptionId": "b"
+  },
+  {
+    "id": 10,
+    "question": "Uma das principais críticas aos testes mentais iniciais de Galton refere-se a:",
+    "options": [
+      { "id": "a", "text": "A ausência de instrumentos padronizados para mensuração de capacidades cognitivas complexas." },
+      { "id": "b", "text": "A ênfase excessiva em aspectos subjetivos da experiência psicológica." },
+      { "id": "c", "text": "A baixa correlação entre medidas sensoriais e desempenho intelectual significativo." },
+      { "id": "d", "text": "A utilização de métodos qualitativos em detrimento de análises estatísticas rigorosas." }
+    ],
+    "correctOptionId": "c"
+  },
+
+  {
+    "id": 11,
+    "question": "James Cattell contribuiu para a Avaliação Psicológica ao:",
+    "options": [
+      { "id": "a", "text": "Desenvolver abordagens clínicas voltadas à subjetividade e à interpretação simbólica." },
+      { "id": "b", "text": "Introduzir o termo testes mentais e aplicar métodos quantitativos no estudo das diferenças individuais." },
+      { "id": "c", "text": "Criar instrumentos baseados exclusivamente em análise qualitativa do comportamento humano." },
+      { "id": "d", "text": "Negar a importância da mensuração no estudo psicológico." }
+    ],
+    "correctOptionId": "b"
+  },
+  {
+    "id": 12,
+    "question": "Uma das conclusões de Cattell sobre seus testes mentais foi:",
+    "options": [
+      { "id": "a", "text": "A forte correlação entre medidas sensoriais e desempenho acadêmico." },
+      { "id": "b", "text": "A superioridade dos testes qualitativos sobre os quantitativos." },
+      { "id": "c", "text": "A limitação dos testes sensório-motores para prever desempenho intelectual." },
+      { "id": "d", "text": "A inutilidade de qualquer tipo de mensuração psicológica." }
+    ],
+    "correctOptionId": "c"
+  },
+  {
+    "id": 13,
+    "question": "Alfred Binet promoveu uma mudança significativa ao:",
+    "options": [
+      { "id": "a", "text": "Focar na mensuração de aspectos físicos como base da inteligência." },
+      { "id": "b", "text": "Priorizar funções cognitivas como memória, atenção e raciocínio." },
+      { "id": "c", "text": "Abandonar completamente o uso de testes estruturados." },
+      { "id": "d", "text": "Aplicar exclusivamente métodos introspectivos." }
+    ],
+    "correctOptionId": "b"
+  },
+  {
+    "id": 14,
+    "question": "O conceito de idade mental introduzido por Binet refere-se a:",
+    "options": [
+      { "id": "a", "text": "A idade cronológica do indivíduo ajustada por fatores sociais." },
+      { "id": "b", "text": "O nível de desenvolvimento cognitivo comparado ao desempenho médio esperado para determinada idade." },
+      { "id": "c", "text": "A capacidade biológica do cérebro medida por exames médicos." },
+      { "id": "d", "text": "A maturidade emocional observada em contextos sociais." }
+    ],
+    "correctOptionId": "b"
+  },
+  {
+    "id": 15,
+    "question": "O Quociente de Inteligência (QI) é calculado a partir da:",
+    "options": [
+      { "id": "a", "text": "Diferença entre desempenho escolar e idade cronológica." },
+      { "id": "b", "text": "Relação entre idade mental e idade cronológica multiplicada por um fator constante." },
+      { "id": "c", "text": "Soma de habilidades cognitivas avaliadas por diferentes testes." },
+      { "id": "d", "text": "Comparação entre resultados qualitativos e quantitativos." }
+    ],
+    "correctOptionId": "b"
+  },
+  {
+    "id": 16,
+    "question": "Os testes Army Alpha e Army Beta foram desenvolvidos com o objetivo de:",
+    "options": [
+      { "id": "a", "text": "Avaliar exclusivamente aspectos emocionais de soldados." },
+      { "id": "b", "text": "Mensurar inteligência em larga escala no contexto militar." },
+      { "id": "c", "text": "Substituir completamente os testes de Binet." },
+      { "id": "d", "text": "Aplicar avaliações clínicas individualizadas." }
+    ],
+    "correctOptionId": "b"
+  },
+  {
+    "id": 17,
+    "question": "No Brasil, o início da Avaliação Psicológica está associado a:",
+    "options": [
+      { "id": "a", "text": "Laboratórios voltados à aprendizagem e ao contexto educacional." },
+      { "id": "b", "text": "Instituições médicas voltadas exclusivamente à psiquiatria." },
+      { "id": "c", "text": "Empresas privadas focadas em seleção industrial." },
+      { "id": "d", "text": "Centros religiosos voltados à orientação moral." }
+    ],
+    "correctOptionId": "a"
+  },
+  {
+    "id": 18,
+    "question": "A adaptação do teste Binet-Simon no Brasil ocorreu em:",
+    "options": [
+      { "id": "a", "text": "1890" },
+      { "id": "b", "text": "1924" },
+      { "id": "c", "text": "1933" },
+      { "id": "d", "text": "1962" }
+    ],
+    "correctOptionId": "b"
+  },
+  {
+    "id": 19,
+    "question": "O Teste ABC de Prontidão Escolar tinha como foco principal:",
+    "options": [
+      { "id": "a", "text": "Avaliar exclusivamente inteligência geral." },
+      { "id": "b", "text": "Mensurar habilidades múltiplas relacionadas ao desempenho escolar." },
+      { "id": "c", "text": "Analisar apenas aspectos emocionais da criança." },
+      { "id": "d", "text": "Classificar alunos por nível socioeconômico." }
+    ],
+    "correctOptionId": "b"
+  },
+  {
+    "id": 20,
+    "question": "A Lei nº 4.119 de 1962 no Brasil estabeleceu:",
+    "options": [
+      { "id": "a", "text": "A obrigatoriedade de testes em escolas públicas." },
+      { "id": "b", "text": "A regulamentação da profissão de psicólogo e o uso privativo de testes." },
+      { "id": "c", "text": "A criação de universidades específicas de psicologia." },
+      { "id": "d", "text": "A proibição do uso de testes psicológicos." }
+    ],
+    "correctOptionId": "b"
+  },
+  {
+    "id": 21,
+    "question": "A crise dos testes psicológicos no Brasil (1970-1990) foi marcada por:",
+    "options": [
+      { "id": "a", "text": "Expansão irrestrita do uso de testes sem críticas." },
+      { "id": "b", "text": "Críticas quanto à validade, normas e origem dos instrumentos." },
+      { "id": "c", "text": "Substituição total dos testes por entrevistas." },
+      { "id": "d", "text": "Validação internacional de todos os instrumentos brasileiros." }
+    ],
+    "correctOptionId": "b"
+  },
+  {
+    "id": 22,
+    "question": "A criação do IBAP teve como finalidade:",
+    "options": [
+      { "id": "a", "text": "Eliminar o uso de testes psicológicos no Brasil." },
+      { "id": "b", "text": "Organizar e fomentar o desenvolvimento científico da Avaliação Psicológica." },
+      { "id": "c", "text": "Substituir o CFP na regulamentação profissional." },
+      { "id": "d", "text": "Centralizar apenas atividades clínicas." }
+    ],
+    "correctOptionId": "b"
+  },
+  {
+    "id": 23,
+    "question": "O SATEPSI foi criado com o objetivo de:",
+    "options": [
+      { "id": "a", "text": "Avaliar a formação acadêmica dos psicólogos." },
+      { "id": "b", "text": "Regulamentar e avaliar a qualidade dos testes psicológicos no Brasil." },
+      { "id": "c", "text": "Substituir os testes internacionais por nacionais." },
+      { "id": "d", "text": "Promover apenas pesquisas acadêmicas." }
+    ],
+    "correctOptionId": "b"
+  },
+  {
+    "id": 24,
+    "question": "A Avaliação Psicológica tornou-se especialidade reconhecida no Brasil em:",
+    "options": [
+      { "id": "a", "text": "2003" },
+      { "id": "b", "text": "2011" },
+      { "id": "c", "text": "2019" },
+      { "id": "d", "text": "1990" }
+    ],
+    "correctOptionId": "c"
+  },
+  {
+    "id": 25,
+    "question": "Os instrumentos complementares na Avaliação Psicológica incluem:",
+    "options": [
+      { "id": "a", "text": "Apenas testes aprovados pelo CFP." },
+      { "id": "b", "text": "Relatórios multiprofissionais e técnicas não psicológicas." },
+      { "id": "c", "text": "Somente entrevistas clínicas." },
+      { "id": "d", "text": "Exclusivamente observações livres." }
+    ],
+    "correctOptionId": "b"
+  },
+  {
+    "id": 26,
+    "question": "O contexto biopsicossocial na avaliação implica considerar:",
+    "options": [
+      { "id": "a", "text": "Somente fatores biológicos." },
+      { "id": "b", "text": "Aspectos biológicos, psicológicos e sociais de forma integrada." },
+      { "id": "c", "text": "Apenas o ambiente social do indivíduo." },
+      { "id": "d", "text": "Exclusivamente fatores internos." }
+    ],
+    "correctOptionId": "b"
+  },
+  {
+    "id": 27,
+    "question": "A obrigatoriedade de documentos psicológicos está relacionada a:",
+    "options": [
+      { "id": "a", "text": "Organização administrativa interna apenas." },
+      { "id": "b", "text": "Exigências éticas e legais da prática profissional." },
+      { "id": "c", "text": "Preferência do profissional." },
+      { "id": "d", "text": "Demandas institucionais informais." }
+    ],
+    "correctOptionId": "b"
+  },
+  {
+    "id": 28,
+    "question": "A interpretação dos resultados na Avaliação Psicológica deve:",
+    "options": [
+      { "id": "a", "text": "Ser baseada exclusivamente em dados estatísticos." },
+      { "id": "b", "text": "Considerar o embasamento teórico e o contexto do avaliado." },
+      { "id": "c", "text": "Ignorar variáveis externas." },
+      { "id": "d", "text": "Ser padronizada para todos os casos." }
+    ],
+    "correctOptionId": "b"
+  },
+  {
+    "id": 29,
+    "question": "A utilização de entrevistas na Avaliação Psicológica permite:",
+    "options": [
+      { "id": "a", "text": "Coletar dados qualitativos relevantes para compreensão do indivíduo." },
+      { "id": "b", "text": "Substituir todos os outros instrumentos." },
+      { "id": "c", "text": "Eliminar a necessidade de testes." },
+      { "id": "d", "text": "Padronizar completamente os resultados." }
+    ],
+    "correctOptionId": "a"
+  },
+  {
+    "id": 30,
+    "question": "A Avaliação Psicológica contemporânea no Brasil caracteriza-se por:",
+    "options": [
+      { "id": "a", "text": "Ausência de regulamentação formal." },
+      { "id": "b", "text": "Consolidação da área com base ética, técnica e legal." },
+      { "id": "c", "text": "Uso irrestrito de qualquer instrumento." },
+      { "id": "d", "text": "Foco exclusivo na prática clínica." }
+    ],
+    "correctOptionId": "b"
+  }
 ]
