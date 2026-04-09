@@ -143,183 +143,113 @@
     "correctOptionId": "b"
   },
   {
-    "id": 61,
-    "question": "A medula espinhal faz parte do sistema nervoso central e está localizada no interior do canal vertebral.",
+    "id": 81,
+    "question": "A medula espinhal pode ser descrita como uma estrutura que:",
     "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
+      { "id": "a", "text": "Atua exclusivamente na integração de funções cognitivas superiores localizadas no córtex cerebral." },
+      { "id": "b", "text": "Integra o sistema nervoso periférico sem conexão direta com o encéfalo." },
+      { "id": "c", "text": "Constitui uma extensão do tronco encefálico situada no canal vertebral." },
+      { "id": "d", "text": "Funciona apenas como estrutura de suporte anatômico sem função neural relevante." }
+    ],
+    "correctOptionId": "c"
+  },
+  {
+    "id": 82,
+    "question": "A organização segmentar da medula espinhal implica que:",
+    "options": [
+      { "id": "a", "text": "Cada segmento está associado à emissão de pares de nervos espinhais que inervam regiões específicas." },
+      { "id": "b", "text": "Os segmentos funcionam de forma independente sem comunicação entre si." },
+      { "id": "c", "text": "A segmentação está relacionada apenas à divisão óssea da coluna vertebral." },
+      { "id": "d", "text": "Os nervos espinhais não possuem relação com a organização medular." }
     ],
     "correctOptionId": "a"
   },
   {
-    "id": 62,
-    "question": "A raiz anterior dos nervos espinhais é responsável pela condução de estímulos sensoriais.",
+    "id": 83,
+    "question": "O filum terminale desempenha a função de:",
     "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
+      { "id": "a", "text": "Transmitir impulsos nervosos entre a medula e o encéfalo." },
+      { "id": "b", "text": "Ancorar a medula espinhal à estrutura óssea da coluna vertebral." },
+      { "id": "c", "text": "Regular a produção de líquido cefalorraquidiano." },
+      { "id": "d", "text": "Separar as raízes nervosas anteriores e posteriores." }
     ],
     "correctOptionId": "b"
   },
   {
-    "id": 63,
-    "question": "O arco reflexo é uma resposta rápida e involuntária a um estímulo.",
+    "id": 84,
+    "question": "O espaço epidural caracteriza-se por:",
     "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
+      { "id": "a", "text": "Conter líquido cefalorraquidiano em grande quantidade." },
+      { "id": "b", "text": "Estar localizado entre a aracnoide e a pia-máter." },
+      { "id": "c", "text": "Possuir tecido adiposo e plexo venoso em sua composição." },
+      { "id": "d", "text": "Ser uma região exclusivamente neural sem estruturas vasculares." }
+    ],
+    "correctOptionId": "c"
+  },
+  {
+    "id": 85,
+    "question": "A cauda equina corresponde a:",
+    "options": [
+      { "id": "a", "text": "Um conjunto de raízes nervosas localizadas na porção inferior da medula espinhal." },
+      { "id": "b", "text": "Uma extensão do tronco encefálico em direção ao cerebelo." },
+      { "id": "c", "text": "Uma subdivisão funcional do sistema nervoso autônomo." },
+      { "id": "d", "text": "Uma estrutura responsável pela produção de líquor." }
     ],
     "correctOptionId": "a"
   },
   {
-    "id": 64,
-    "question": "O cerebelo é responsável principalmente por funções cognitivas superiores como linguagem e memória.",
+    "id": 86,
+    "question": "O cerebelo exerce papel fundamental em:",
     "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
+      { "id": "a", "text": "Processos de linguagem e memória declarativa." },
+      { "id": "b", "text": "Regulação hormonal do sistema endócrino." },
+      { "id": "c", "text": "Coordenação motora, equilíbrio e ajuste fino dos movimentos." },
+      { "id": "d", "text": "Controle exclusivo de reflexos medulares simples." }
+    ],
+    "correctOptionId": "c"
+  },
+  {
+    "id": 87,
+    "question": "A divisão do cerebelo em lobos inclui:",
+    "options": [
+      { "id": "a", "text": "Lobos frontal, temporal e occipital." },
+      { "id": "b", "text": "Lobos anterior, posterior e flóculo-nodular." },
+      { "id": "c", "text": "Lobos medial, lateral e central." },
+      { "id": "d", "text": "Lobos superior, médio e inferior." }
     ],
     "correctOptionId": "b"
   },
   {
-    "id": 65,
-    "question": "O espaço subaracnóideo contém líquido cefalorraquidiano.",
+    "id": 88,
+    "question": "O vérmis cerebelar é responsável por:",
     "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
+      { "id": "a", "text": "Separar completamente os hemisférios cerebelares." },
+      { "id": "b", "text": "Unir os hemisférios cerebelares na região mediana." },
+      { "id": "c", "text": "Controlar exclusivamente funções autonômicas." },
+      { "id": "d", "text": "Produzir impulsos motores independentes." }
+    ],
+    "correctOptionId": "b"
+  },
+  {
+    "id": 89,
+    "question": "Os pedúnculos cerebelares inferior, médio e superior têm como função:",
+    "options": [
+      { "id": "a", "text": "Separar os lobos cerebelares funcionalmente." },
+      { "id": "b", "text": "Conectar o cerebelo a diferentes regiões do tronco encefálico." },
+      { "id": "c", "text": "Regular o fluxo sanguíneo cerebral." },
+      { "id": "d", "text": "Isolar o cerebelo das demais estruturas encefálicas." }
+    ],
+    "correctOptionId": "b"
+  },
+  {
+    "id": 90,
+    "question": "A disdiadococinesia refere-se a:",
+    "options": [
+      { "id": "a", "text": "Incapacidade de realizar movimentos rápidos e alternados de forma coordenada." },
+      { "id": "b", "text": "Perda total da sensibilidade corporal." },
+      { "id": "c", "text": "Aumento exagerado do tônus muscular." },
+      { "id": "d", "text": "Dificuldade na produção de linguagem." }
     ],
     "correctOptionId": "a"
-  },
-  {
-    "id": 66,
-    "question": "A Avaliação Psicológica envolve apenas a aplicação de testes padronizados.",
-    "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
-    ],
-    "correctOptionId": "b"
-  },
-  {
-    "id": 67,
-    "question": "O SATEPSI é responsável por avaliar a qualidade dos testes psicológicos no Brasil.",
-    "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
-    ],
-    "correctOptionId": "a"
-  },
-  {
-    "id": 68,
-    "question": "A idade mental é independente do desempenho em testes cognitivos.",
-    "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
-    ],
-    "correctOptionId": "b"
-  },
-  {
-    "id": 69,
-    "question": "A ataxia está associada à perda de coordenação motora.",
-    "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
-    ],
-    "correctOptionId": "a"
-  },
-  {
-    "id": 70,
-    "question": "A avaliação psicológica não possui implicações sociais relevantes.",
-    "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
-    ],
-    "correctOptionId": "b"
-  },
-  {
-    "id": 71,
-    "question": "A medula espinhal estende-se desde o forame magno até aproximadamente a região lombar (L1-L2).",
-    "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
-    ],
-    "correctOptionId": "a"
-  },
-  {
-    "id": 72,
-    "question": "O filum terminale tem como função principal ancorar a medula espinhal à coluna vertebral.",
-    "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
-    ],
-    "correctOptionId": "a"
-  },
-  {
-    "id": 73,
-    "question": "A aracnoide é a camada meníngea mais externa e resistente que envolve a medula espinhal.",
-    "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
-    ],
-    "correctOptionId": "b"
-  },
-  {
-    "id": 74,
-    "question": "O espaço epidural contém líquido cefalorraquidiano em grande quantidade.",
-    "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
-    ],
-    "correctOptionId": "b"
-  },
-  {
-    "id": 75,
-    "question": "Os reflexos podem ser utilizados clinicamente para identificar possíveis lesões no sistema nervoso.",
-    "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
-    ],
-    "correctOptionId": "a"
-  },
-  {
-    "id": 76,
-    "question": "O cerebelo é a menor estrutura do encéfalo e não possui subdivisões anatômicas relevantes.",
-    "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
-    ],
-    "correctOptionId": "b"
-  },
-  {
-    "id": 77,
-    "question": "Os hemisférios cerebelares são unidos por uma estrutura central denominada vérmis.",
-    "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
-    ],
-    "correctOptionId": "a"
-  },
-  {
-    "id": 78,
-    "question": "A dismetria refere-se à incapacidade de manter o equilíbrio em posição ortostática.",
-    "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
-    ],
-    "correctOptionId": "b"
-  },
-  {
-    "id": 79,
-    "question": "A Avaliação Psicológica deve considerar múltiplas fontes de informação e não apenas testes psicológicos.",
-    "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
-    ],
-    "correctOptionId": "a"
-  },
-  {
-    "id": 80,
-    "question": "O embasamento teórico não influencia a interpretação dos resultados na Avaliação Psicológica.",
-    "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
-    ],
-    "correctOptionId": "b"
   }
 ]
