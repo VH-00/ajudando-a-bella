@@ -1,254 +1,221 @@
 [
   {
-    "id": 31,
-    "question": "A medula espinhal pode ser corretamente caracterizada como:",
+    "id": 1,
+    "question": "Os giros cerebrais podem ser definidos como:",
     "options": [
-      { "id": "a", "text": "Uma estrutura periférica responsável exclusivamente pela condução sensorial do organismo." },
-      { "id": "b", "text": "Uma porção do sistema nervoso central localizada no interior do canal vertebral e conectada ao encéfalo." },
-      { "id": "c", "text": "Um conjunto de nervos independentes sem organização segmentar definida." },
-      { "id": "d", "text": "Uma estrutura responsável apenas por funções motoras voluntárias superiores." }
+      { "id": "a", "text": "Depressões profundas que separam os hemisférios cerebrais." },
+      { "id": "b", "text": "Elevações da superfície cortical delimitadas por sulcos." },
+      { "id": "c", "text": "Regiões internas compostas apenas por substância branca." },
+      { "id": "d", "text": "Estruturas responsáveis exclusivamente por funções autonômicas." }
     ],
     "correctOptionId": "b"
   },
   {
-    "id": 32,
-    "question": "A principal função da medula espinhal envolve:",
+    "id": 2,
+    "question": "A principal função dos giros cerebrais está relacionada:",
     "options": [
-      { "id": "a", "text": "A produção de hormônios reguladores do sistema nervoso autônomo." },
-      { "id": "b", "text": "A integração de funções cognitivas complexas e memória de longo prazo." },
-      { "id": "c", "text": "A condução de impulsos nervosos e a execução de reflexos medulares." },
-      { "id": "d", "text": "A coordenação exclusiva de movimentos voluntários finos." }
-    ],
-    "correctOptionId": "c"
-  },
-  {
-    "id": 33,
-    "question": "A divisão segmentar da medula espinhal está relacionada:",
-    "options": [
-      { "id": "a", "text": "À organização funcional dos lobos cerebrais superiores." },
-      { "id": "b", "text": "À distribuição dos nervos espinhais ao longo das regiões corporais." },
-      { "id": "c", "text": "À separação anatômica entre sistema nervoso central e periférico." },
-      { "id": "d", "text": "À localização exclusiva das funções autonômicas." }
+      { "id": "a", "text": "À redução da superfície cortical para economia de espaço." },
+      { "id": "b", "text": "Ao aumento da área cortical disponível para processamento neural." },
+      { "id": "c", "text": "À condução exclusiva de impulsos motores." },
+      { "id": "d", "text": "À produção de líquido cefalorraquidiano." }
     ],
     "correctOptionId": "b"
   },
   {
-    "id": 34,
-    "question": "Os nervos espinhais originam-se a partir de:",
+    "id": 3,
+    "question": "O giro pré-central está funcionalmente associado:",
     "options": [
-      { "id": "a", "text": "Raízes exclusivamente motoras que partem do encéfalo." },
-      { "id": "b", "text": "Raízes sensoriais independentes sem conexão com a medula." },
-      { "id": "c", "text": "A fusão de raízes anterior (motora) e posterior (sensitiva)." },
-      { "id": "d", "text": "Estruturas exclusivamente autônomas localizadas no sistema periférico." }
-    ],
-    "correctOptionId": "c"
-  },
-  {
-    "id": 35,
-    "question": "A raiz posterior dos nervos espinhais é responsável por:",
-    "options": [
-      { "id": "a", "text": "Transmitir impulsos motores do sistema nervoso central para os músculos." },
-      { "id": "b", "text": "Conduzir informações sensoriais dos receptores ao sistema nervoso central." },
-      { "id": "c", "text": "Controlar reflexos autônomos independentes da medula." },
-      { "id": "d", "text": "Regular exclusivamente funções viscerais involuntárias." }
+      { "id": "a", "text": "Ao processamento sensorial somático." },
+      { "id": "b", "text": "Ao controle motor voluntário." },
+      { "id": "c", "text": "À percepção visual." },
+      { "id": "d", "text": "À regulação emocional." }
     ],
     "correctOptionId": "b"
   },
   {
-    "id": 36,
-    "question": "O arco reflexo caracteriza-se por ser:",
+    "id": 4,
+    "question": "O giro pós-central corresponde:",
     "options": [
-      { "id": "a", "text": "Um processo voluntário dependente da atividade cortical superior." },
-      { "id": "b", "text": "Uma resposta lenta mediada exclusivamente pelo encéfalo." },
-      { "id": "c", "text": "Uma sequência rápida e involuntária de resposta a estímulos específicos." },
-      { "id": "d", "text": "Um mecanismo exclusivo de regulação hormonal." }
-    ],
-    "correctOptionId": "c"
-  },
-  {
-    "id": 37,
-    "question": "O cone medular corresponde:",
-    "options": [
-      { "id": "a", "text": "À porção inicial da medula próxima ao bulbo." },
-      { "id": "b", "text": "À extremidade afilada da medula espinhal em sua porção inferior." },
-      { "id": "c", "text": "À região de maior espessura da medula cervical." },
-      { "id": "d", "text": "À área de conexão com os nervos cranianos." }
+      { "id": "a", "text": "À área motora primária." },
+      { "id": "b", "text": "À área somatossensorial primária." },
+      { "id": "c", "text": "À área auditiva primária." },
+      { "id": "d", "text": "À área visual primária." }
     ],
     "correctOptionId": "b"
   },
   {
-    "id": 38,
-    "question": "O espaço subaracnóideo é relevante clinicamente porque:",
+    "id": 5,
+    "question": "Os giros estão separados entre si por:",
     "options": [
-      { "id": "a", "text": "Contém exclusivamente fibras nervosas motoras." },
-      { "id": "b", "text": "Apresenta ausência de líquido cefalorraquidiano." },
-      { "id": "c", "text": "Permite procedimentos como coleta de líquor e anestesia raquidiana." },
-      { "id": "d", "text": "É composto apenas por tecido conjuntivo denso." }
-    ],
-    "correctOptionId": "c"
-  },
-  {
-    "id": 39,
-    "question": "A dura-máter caracteriza-se por ser:",
-    "options": [
-      { "id": "a", "text": "Uma camada interna delicada aderida diretamente à medula." },
-      { "id": "b", "text": "Uma membrana intermediária com líquido em seu interior." },
-      { "id": "c", "text": "Uma camada espessa e resistente composta por fibras colágenas." },
-      { "id": "d", "text": "Uma estrutura exclusivamente vascularizada." }
-    ],
-    "correctOptionId": "c"
-  },
-  {
-    "id": 40,
-    "question": "O cerebelo tem como principal função:",
-    "options": [
-      { "id": "a", "text": "Controlar funções autonômicas viscerais primárias." },
-      { "id": "b", "text": "Regular emoções e comportamento social." },
-      { "id": "c", "text": "Coordenar movimentos, equilíbrio e aprendizagem motora." },
-      { "id": "d", "text": "Produzir respostas hormonais ao estresse." }
-    ],
-    "correctOptionId": "c"
-  },
-  {
-    "id": 41,
-    "question": "O cerebelo localiza-se:",
-    "options": [
-      { "id": "a", "text": "Anteriormente ao lobo frontal e superior ao tálamo." },
-      { "id": "b", "text": "Posteriormente ao tronco encefálico e inferior ao lobo occipital." },
-      { "id": "c", "text": "No interior do sistema ventricular." },
-      { "id": "d", "text": "Na base do sistema límbico." }
+      { "id": "a", "text": "Fissuras profundas que dividem os hemisférios." },
+      { "id": "b", "text": "Sulcos que delimitam suas bordas." },
+      { "id": "c", "text": "Ventrículos cerebrais." },
+      { "id": "d", "text": "Meninges especializadas." }
     ],
     "correctOptionId": "b"
   },
   {
-    "id": 42,
-    "question": "Os pedúnculos cerebelares são responsáveis por:",
+    "id": 6,
+    "question": "O giro temporal superior está relacionado principalmente:",
     "options": [
-      { "id": "a", "text": "Separar os hemisférios cerebrais." },
-      { "id": "b", "text": "Conectar o cerebelo ao tronco encefálico." },
-      { "id": "c", "text": "Controlar a produção de líquor." },
-      { "id": "d", "text": "Regular funções endócrinas." }
-    ],
-    "correctOptionId": "b"
-  },
-  {
-    "id": 43,
-    "question": "A ataxia cerebelar está relacionada a:",
-    "options": [
-      { "id": "a", "text": "Alterações hormonais sistêmicas." },
-      { "id": "b", "text": "Lesões nas vias cerebelares que comprometem a coordenação motora." },
-      { "id": "c", "text": "Déficits exclusivamente sensoriais periféricos." },
-      { "id": "d", "text": "Disfunções do sistema cardiovascular." }
-    ],
-    "correctOptionId": "b"
-  },
-  {
-    "id": 81,
-    "question": "A medula espinhal pode ser descrita como uma estrutura que:",
-    "options": [
-      { "id": "a", "text": "Atua exclusivamente na integração de funções cognitivas superiores localizadas no córtex cerebral." },
-      { "id": "b", "text": "Integra o sistema nervoso periférico sem conexão direta com o encéfalo." },
-      { "id": "c", "text": "Constitui uma extensão do tronco encefálico situada no canal vertebral." },
-      { "id": "d", "text": "Funciona apenas como estrutura de suporte anatômico sem função neural relevante." }
-    ],
-    "correctOptionId": "c"
-  },
-  {
-    "id": 82,
-    "question": "A organização segmentar da medula espinhal implica que:",
-    "options": [
-      { "id": "a", "text": "Cada segmento está associado à emissão de pares de nervos espinhais que inervam regiões específicas." },
-      { "id": "b", "text": "Os segmentos funcionam de forma independente sem comunicação entre si." },
-      { "id": "c", "text": "A segmentação está relacionada apenas à divisão óssea da coluna vertebral." },
-      { "id": "d", "text": "Os nervos espinhais não possuem relação com a organização medular." }
+      { "id": "a", "text": "Ao processamento auditivo." },
+      { "id": "b", "text": "Ao controle motor fino." },
+      { "id": "c", "text": "À percepção visual." },
+      { "id": "d", "text": "À regulação hormonal." }
     ],
     "correctOptionId": "a"
   },
   {
-    "id": 83,
-    "question": "O filum terminale desempenha a função de:",
+    "id": 7,
+    "question": "O aumento do número de giros cerebrais resulta em:",
     "options": [
-      { "id": "a", "text": "Transmitir impulsos nervosos entre a medula e o encéfalo." },
-      { "id": "b", "text": "Ancorar a medula espinhal à estrutura óssea da coluna vertebral." },
-      { "id": "c", "text": "Regular a produção de líquido cefalorraquidiano." },
-      { "id": "d", "text": "Separar as raízes nervosas anteriores e posteriores." }
+      { "id": "a", "text": "Diminuição da capacidade cognitiva." },
+      { "id": "b", "text": "Aumento da área cortical funcional." },
+      { "id": "c", "text": "Redução da atividade neural." },
+      { "id": "d", "text": "Simplificação das funções cerebrais." }
     ],
     "correctOptionId": "b"
   },
   {
-    "id": 84,
-    "question": "O espaço epidural caracteriza-se por:",
+    "id": 8,
+    "question": "O giro do cíngulo está associado principalmente:",
     "options": [
-      { "id": "a", "text": "Conter líquido cefalorraquidiano em grande quantidade." },
-      { "id": "b", "text": "Estar localizado entre a aracnoide e a pia-máter." },
-      { "id": "c", "text": "Possuir tecido adiposo e plexo venoso em sua composição." },
-      { "id": "d", "text": "Ser uma região exclusivamente neural sem estruturas vasculares." }
-    ],
-    "correctOptionId": "c"
-  },
-  {
-    "id": 85,
-    "question": "A cauda equina corresponde a:",
-    "options": [
-      { "id": "a", "text": "Um conjunto de raízes nervosas localizadas na porção inferior da medula espinhal." },
-      { "id": "b", "text": "Uma extensão do tronco encefálico em direção ao cerebelo." },
-      { "id": "c", "text": "Uma subdivisão funcional do sistema nervoso autônomo." },
-      { "id": "d", "text": "Uma estrutura responsável pela produção de líquor." }
+      { "id": "a", "text": "Ao sistema límbico e processos emocionais." },
+      { "id": "b", "text": "Ao controle motor primário." },
+      { "id": "c", "text": "À visão periférica." },
+      { "id": "d", "text": "À audição." }
     ],
     "correctOptionId": "a"
   },
   {
-    "id": 86,
-    "question": "O cerebelo exerce papel fundamental em:",
+    "id": 9,
+    "question": "O giro frontal inferior está relacionado:",
     "options": [
-      { "id": "a", "text": "Processos de linguagem e memória declarativa." },
-      { "id": "b", "text": "Regulação hormonal do sistema endócrino." },
-      { "id": "c", "text": "Coordenação motora, equilíbrio e ajuste fino dos movimentos." },
-      { "id": "d", "text": "Controle exclusivo de reflexos medulares simples." }
+      { "id": "a", "text": "À produção da linguagem (área de Broca)." },
+      { "id": "b", "text": "À percepção sensorial." },
+      { "id": "c", "text": "Ao equilíbrio corporal." },
+      { "id": "d", "text": "À função visual." }
     ],
-    "correctOptionId": "c"
+    "correctOptionId": "a"
   },
   {
-    "id": 87,
-    "question": "A divisão do cerebelo em lobos inclui:",
+    "id": 10,
+    "question": "A organização dos giros cerebrais permite:",
     "options": [
-      { "id": "a", "text": "Lobos frontal, temporal e occipital." },
-      { "id": "b", "text": "Lobos anterior, posterior e flóculo-nodular." },
-      { "id": "c", "text": "Lobos medial, lateral e central." },
-      { "id": "d", "text": "Lobos superior, médio e inferior." }
+      { "id": "a", "text": "Distribuição funcional especializada do córtex." },
+      { "id": "b", "text": "Redução da atividade neural cortical." },
+      { "id": "c", "text": "Isolamento das funções cerebrais." },
+      { "id": "d", "text": "Ausência de integração funcional." }
     ],
-    "correctOptionId": "b"
+    "correctOptionId": "a"
   },
   {
-    "id": 88,
-    "question": "O vérmis cerebelar é responsável por:",
+    "id": 11,
+    "question": "O giro angular está envolvido:",
     "options": [
-      { "id": "a", "text": "Separar completamente os hemisférios cerebelares." },
-      { "id": "b", "text": "Unir os hemisférios cerebelares na região mediana." },
-      { "id": "c", "text": "Controlar exclusivamente funções autonômicas." },
-      { "id": "d", "text": "Produzir impulsos motores independentes." }
+      { "id": "a", "text": "Na integração de linguagem e processamento cognitivo complexo." },
+      { "id": "b", "text": "Na contração muscular." },
+      { "id": "c", "text": "Na regulação cardíaca." },
+      { "id": "d", "text": "Na função visual primária." }
     ],
-    "correctOptionId": "b"
+    "correctOptionId": "a"
   },
   {
-    "id": 89,
-    "question": "Os pedúnculos cerebelares inferior, médio e superior têm como função:",
+    "id": 12,
+    "question": "O giro supramarginal desempenha papel importante em:",
     "options": [
-      { "id": "a", "text": "Separar os lobos cerebelares funcionalmente." },
-      { "id": "b", "text": "Conectar o cerebelo a diferentes regiões do tronco encefálico." },
-      { "id": "c", "text": "Regular o fluxo sanguíneo cerebral." },
-      { "id": "d", "text": "Isolar o cerebelo das demais estruturas encefálicas." }
+      { "id": "a", "text": "Processamento sensorial e linguagem." },
+      { "id": "b", "text": "Controle hormonal." },
+      { "id": "c", "text": "Equilíbrio corporal." },
+      { "id": "d", "text": "Funções viscerais." }
     ],
-    "correctOptionId": "b"
+    "correctOptionId": "a"
   },
   {
-    "id": 90,
-    "question": "A disdiadococinesia refere-se a:",
+    "id": 13,
+    "question": "Os giros occipitais estão relacionados principalmente:",
     "options": [
-      { "id": "a", "text": "Incapacidade de realizar movimentos rápidos e alternados de forma coordenada." },
-      { "id": "b", "text": "Perda total da sensibilidade corporal." },
-      { "id": "c", "text": "Aumento exagerado do tônus muscular." },
-      { "id": "d", "text": "Dificuldade na produção de linguagem." }
+      { "id": "a", "text": "Ao processamento visual." },
+      { "id": "b", "text": "Ao controle motor." },
+      { "id": "c", "text": "À audição." },
+      { "id": "d", "text": "À memória emocional." }
+    ],
+    "correctOptionId": "a"
+  },
+  {
+    "id": 14,
+    "question": "O giro parahipocampal está associado:",
+    "options": [
+      { "id": "a", "text": "À memória e navegação espacial." },
+      { "id": "b", "text": "Ao controle motor primário." },
+      { "id": "c", "text": "À percepção auditiva." },
+      { "id": "d", "text": "À função hormonal." }
+    ],
+    "correctOptionId": "a"
+  },
+  {
+    "id": 15,
+    "question": "A complexidade dos giros cerebrais humanos está relacionada:",
+    "options": [
+      { "id": "a", "text": "Ao maior desenvolvimento cognitivo da espécie." },
+      { "id": "b", "text": "À redução da atividade neural." },
+      { "id": "c", "text": "À ausência de especialização cortical." },
+      { "id": "d", "text": "Ao funcionamento exclusivo do tronco encefálico." }
+    ],
+    "correctOptionId": "a"
+  },
+  {
+    "id": 16,
+    "question": "Os giros cerebrais são formados predominantemente por:",
+    "options": [
+      { "id": "a", "text": "Substância cinzenta cortical." },
+      { "id": "b", "text": "Substância branca apenas." },
+      { "id": "c", "text": "Tecido conjuntivo." },
+      { "id": "d", "text": "Estruturas vasculares." }
+    ],
+    "correctOptionId": "a"
+  },
+  {
+    "id": 17,
+    "question": "A função do giro pré-central pode ser afetada resultando em:",
+    "options": [
+      { "id": "a", "text": "Déficits motores voluntários." },
+      { "id": "b", "text": "Alterações auditivas." },
+      { "id": "c", "text": "Problemas visuais." },
+      { "id": "d", "text": "Disfunções hormonais." }
+    ],
+    "correctOptionId": "a"
+  },
+  {
+    "id": 18,
+    "question": "A lesão do giro pós-central pode causar:",
+    "options": [
+      { "id": "a", "text": "Perda de sensibilidade somática." },
+      { "id": "b", "text": "Paralisia motora." },
+      { "id": "c", "text": "Alteração hormonal." },
+      { "id": "d", "text": "Distúrbios visuais." }
+    ],
+    "correctOptionId": "a"
+  },
+  {
+    "id": 19,
+    "question": "Os giros contribuem para o funcionamento cerebral ao:",
+    "options": [
+      { "id": "a", "text": "Permitir maior densidade neuronal cortical." },
+      { "id": "b", "text": "Reduzir a capacidade funcional." },
+      { "id": "c", "text": "Eliminar a necessidade de sulcos." },
+      { "id": "d", "text": "Isolar áreas corticais." }
+    ],
+    "correctOptionId": "a"
+  },
+  {
+    "id": 20,
+    "question": "A organização dos giros está diretamente relacionada:",
+    "options": [
+      { "id": "a", "text": "À especialização funcional das áreas corticais." },
+      { "id": "b", "text": "À produção de líquor." },
+      { "id": "c", "text": "Ao sistema endócrino." },
+      { "id": "d", "text": "À atividade cardíaca." }
     ],
     "correctOptionId": "a"
   }
